@@ -8,3 +8,8 @@
 const spaceCatItems = ["Paws", "Whiskers", "Eyes", "Nose", "Rocket",];
 console.log(spaceCatItems);
 ```
+
+- [ ] Learn to use GitHub
+- [ ] Communicate using Markdown
+- [ ] Learn to use React
+- [ ] Profit!
